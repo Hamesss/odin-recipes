@@ -7,8 +7,15 @@
 }
 
 .food-description{
-    background-color: lightblue;
+    background-color: darkblue;
     color: lightgreen;
     text-align: center;
     font-family: "Lucida Console", "Times New Roman" sans-serif; 
+}
+
+.ingredient-list{
+    background-color: lightcoral;
+    color: aqua;
+    text-align: center;
+    font-family: Verdana, Arial, sans-serif;
 }
