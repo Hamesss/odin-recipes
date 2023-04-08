@@ -5,3 +5,10 @@
     font-weight: bold;
     text-align: center;
 }
+
+.food-description{
+    background-color: lightblue;
+    color: lightgreen;
+    text-align: center;
+    font-family: "Lucida Console", "Times New Roman" sans-serif; 
+}
